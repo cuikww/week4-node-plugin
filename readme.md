@@ -54,5 +54,5 @@ node index.js --name "Cuikww" --nim "F1D022049"
 
 ![alt text](image-1.png)
 
-![alt text](image-3.png)
+![alt text](image-2.png)
 
